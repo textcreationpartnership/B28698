@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for a general liberty to all clothiers to sell their cloath when, where, and as they please. Against the restrictions and designed alterations of the methods of trade in the woollen manufacture, in a bill now depending in Parliament, for the better preventing the exportation of wooll, by altering the penalty, and for the preservation of the market at Blackwell-Hall, &amp;c. Humbly submitted to the consideration of the Honourable House of Commons.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28698</idno><idno type="EEBO-CITATION">99885697</idno>
+  <idno type="VID">185528</idno>
+  <idno type="EEBO-PROQUEST">2240882519</idno>
+  
+            <idno type="STC">Wing R482B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[75]</idno>
+            <idno type="STC">ESTC R224836</idno>
+            <idno type="PROQUEST">ocm99885697</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885697e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185528)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[75])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for a general liberty to all clothiers to sell their cloath when, where, and as they please. Against the restrictions and designed alterations of the methods of trade in the woollen manufacture, in a bill now depending in Parliament, for the better preventing the exportation of wooll, by altering the penalty, and for the preservation of the market at Blackwell-Hall, &amp;c. Humbly submitted to the consideration of the Honourable House of Commons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Law and legislation --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185528:1"/>
+            <pb facs="tcp:185528:1"/>
+            <head>REASONS for a general Liberty to all Clothiers to <hi>Sell</hi> their Cloath <hi>When, Where,</hi> and <hi>As</hi> they please.</head>
+            <argument>
+               <p>Against the Restrictions and designed Alterations of the methods of Trade in the Woollen Manufacture, in a Bill now depending in Parliament, for the better preventing the Exportation of Wooll, by altering the Pe<g ref="char:EOLhyphen"/>nalty, and for the preservation of the Market at <hi>Blackwell-Hall,</hi> &amp;c.</p>
+            </argument>
+            <opener>Humbly Submitted to the Consideration of the Honourable House of Commons.</opener>
+            <p>WHAT is observed in the Natural Body, holds true in Bodies Politick, either in the Whole, or any considerable Part thereof; <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>That all Sudden Alterations are dangerous.</hi>
+            </p>
+            <p>The present <hi>Rule</hi> of Trade in the Woollen Manufacture for Exporta<g ref="char:EOLhyphen"/>tion, is, <hi>Allowing a General Liberty to all Clothiers to sell their Cloath <hi>When, Where,</hi>
+               </hi> and <hi>As <hi>they</hi>
+               </hi> find the <hi>greatest</hi> Encouragement, without any <hi>Restrictions</hi> as to <hi>Time, Place,</hi> or <hi>Manner</hi> of <hi>Selling;</hi> and under this <hi>General Liberty</hi> the Woollen Marufacture hath most flourished in its Exportation, and more particularly in the <hi>Turky</hi> Trade, the most advantageous Market for our Cloath. But should the design'd-Alterations in the Bill depending be once esta<g ref="char:EOLhyphen"/>blished, Two things (amongst many other Inconveniences) seem to be the Natural Con<g ref="char:EOLhyphen"/>sequences; <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>First,</hi> None but the Rich Clothiers can Trade.</p>
+            <p>
+               <hi>Secondly,</hi> Small Quantities will be then sold for Exportation, and at far dearer Rates than the now Price.</p>
+            <p>The Consequence of the first ill Effect will be the Ruin of many Hundred Cloathiers, and their more Numerous Dependants.</p>
+            <p>And the fatal Consequence of the Rich Cloathiers selling so dear, must in time ruin our Trade with <hi>Turky</hi> and other Parts, where the Markets would be soon supplied by other Nations upon much easier Terms than our Merchants then could sell their Cloath.</p>
+            <p>That Maxim in Trade relating to private Persons, <hi>Light Gain makes a Heavy Purse,</hi> holds undoubtedly true with respect to our <hi>Exportations;</hi> for when we can upon more easy terms than other Nations, supply Foreign Markets with any Commodity, then we may hope to be (if not the sole, yet) the most General Traders; and tho our Gains in the <hi>Yard</hi> may be but small, yet our Profit in the <hi>Whole,</hi> by the vast Quantities we sell, will be very <hi>Considerable.</hi>
+            </p>
+            <p>It is an uncontroverted Maxim in Trade, <hi>The more Markets, the more Buyers, and the more Commodities are dispersed, the greater Quantities will be sold, than when confined to one Market.</hi>
+            </p>
+            <p>Whilst <hi>Clothiers</hi> are at <hi>liberty</hi> to follow <hi>such</hi> Measures in their Trade as they find most con<g ref="char:EOLhyphen"/>ducive to their <hi>Interest,</hi> it seems <hi>strange</hi> and scarce credible, they should <hi>desire</hi> to be <hi>shackled,</hi> and lye under <hi>such Restrictions</hi> as <hi>this</hi> Bill would enact. If it was <hi>in fact</hi> the <hi>Interest</hi> of <hi>All <hi>Clothiers</hi>
+               </hi> (who send Cloth to <hi>London</hi>) to sell their Cloth <hi>only</hi> in <hi>Blackwell-Hall</hi> (as <hi>some</hi> would insinuate) how comes it to pass that the <hi>Clothiers are the <hi>only</hi> part of Mankind that do not follow their Interest, when at <hi>Liberty</hi> so to do. <hi>Interest will not lye,</hi>
+               </hi> but <hi>Plausible Insinuati<g ref="char:EOLhyphen"/>ons</hi> from some <hi>Glocestershire Rich Designing</hi> Clothiers (the <hi>Chief</hi> Promoters of this Bill <hi>for their own <hi>Private</hi> Interest</hi>) <hi>may Err.</hi> And seeing <hi>All Sorts</hi> of <hi>Clothiers</hi> do now <hi>in Fact</hi> use <hi>other</hi> Markets in Trade <hi>besides Blackwell-Hall, <hi>such</hi> their Practice</hi> is a <hi>stronger <hi>Argument that the present Method of Trade</hi>
+               </hi> (which is now followed out of <hi>Choice,</hi> and <hi>not by Restraint</hi>) is for the <hi>General <hi>Interest of that Trade,</hi>
+               </hi> than any <hi>Cunning Pretences</hi> or <hi>Colourable Arguments</hi> can prove to the <hi>Contrary.</hi>
+            </p>
+            <p>Whereas it was objected against the Packers, That they give too large Credit:</p>
+            <p>Answ. <hi>Credit is the life of Trade;</hi> and without <hi>Credit</hi> the Woollen Manufacture will soon decay; and considering the <hi>greatness</hi> of the Trade, there is not <hi>one</hi> instance to be given of so <hi>small</hi> Losses in so <hi>large</hi> returns.</p>
+            <p>And it is humbly conceived (for the Reasons before alledg'd) That should this Bill pass, the Exportation of Cloath would be much less than it now is, which would ex<g ref="char:EOLhyphen"/>tremely prejudice the Woollen Manufacture, and thereby much abate the Price of <hi>Wool.</hi>
+            </p>
+            <p>By the Title and Preamble of this Bill, the preventing the Exportation of Wooll seems to be the main design of the Act; but by the body of the Bill it appears that <hi>other things</hi> are therein chiefly intended; for it <hi>takes off</hi> the <hi>Greatest</hi> Penalties against that Exportation, and Enacts <hi>Less Penal</hi> in their <hi>stead.</hi> But the great drift of the <hi>Rich <hi>Glocestershire Clothiers</hi>
+               </hi> (the first promoters of this Bill) by Passing this Act, would be the <hi>enriching</hi> themselves out of the <hi>Ruins</hi> of the Trade of many other Clothiers of the Poorer sort; whose preservation against this design tends not only to the saving many Families from Ruin, but also keeps up the <hi>value</hi> of <hi>Wooll,</hi> which (with humble Submission) is of as great concern to this Nation, especially the Countrey Gentlemen, as can come before this Honourable House; to the great Wisdom whereof, the Premises are most humbly submitted.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
